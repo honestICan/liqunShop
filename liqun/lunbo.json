@@ -1,0 +1,23 @@
+[
+	{
+	"img":"images/bg01.jpg",
+	"bg":"images/bg_01.jpg"
+	},
+	{
+	"img":"images/bg02.jpg",
+	"bg":"images/bg_02.jpg"
+	},
+	{
+	"img":"images/bg03.jpg",
+	"bg":"images/bg_03.jpg"
+	},
+	{
+	"img":"images/bg04.jpg",
+	"bg":"images/bg_04.jpg"
+	},
+	{
+	"img":"images/bg05.jpg",
+	"bg":"images/bg_05.jpg"
+	}
+]
+
